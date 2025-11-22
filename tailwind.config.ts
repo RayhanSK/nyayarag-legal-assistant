@@ -57,6 +57,10 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        query: "hsl(var(--query-bg))",
+        answer: "hsl(var(--answer-bg))",
+        source: "hsl(var(--source-bg))",
+        highlight: "hsl(var(--highlight))",
       },
       borderRadius: {
         lg: "var(--radius)",
